@@ -1,4 +1,4 @@
-### Hi! I'm [Amit Kumar Thakur ] 👋🏼
+### Hi! I'm Amit Kumar Thakur  👋🏼
 
 I'm a **Full Stack Engineer** based in India ☀️, working at [WizBrand](https://www.wizbrand.com/). I'm a coding passionate focused on **Laravel**, specifically **Laravel** & **Django** **Angular**. Interested in Coding, tech **OpenSource** and **Youtube** ❤️ ❤️
 
