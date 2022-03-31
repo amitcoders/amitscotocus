@@ -1,19 +1,15 @@
-### Hi! I'm [Siddharth](https://realprogrammer.in/) 👋🏼
+### Hi! I'm [Amit Kumar Thakur ] 👋🏼
 
-I'm a **Full Stack Engineer** based in India ☀️, working at [Kreativ Street](https://kreativstreet.com/). I'm a coding passionate focused on **Python**, specifically **Laravel** & **Django**. Interested in Coding, tech **OpenSource** and **Youtube** ❤️ ❤️
+I'm a **Full Stack Engineer** based in India ☀️, working at [WizBrand](https://www.wizbrand.com/). I'm a coding passionate focused on **Laravel**, specifically **Laravel** & **Django** **Angular**. Interested in Coding, tech **OpenSource** and **Youtube** ❤️ ❤️
 
-Aside from coding I enjoy writing technical things [at my blog](https://therealprogrammer.com/) ✍️
+Aside from coding I enjoy writing technical things [at my blog](#) ✍️
 
-Connect with youtube. [Youtube](https://www.youtube.com/channel/UCVSvNQjV5gwKIP9ZgaXSU1w?view_as=subscriber)
+Connect with youtube. [Youtube](#)
 
 <p>
-  <a href="https://twitter.com/intent/follow?screen_name=siddharthr0318">
-    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @siddharthr0318 on Twitter" title="Follow @siddharthr0318 on Twitter">
-  </a>
-
-  <a href="https://github.com/sponsors/siddharth018">
-    <img src="https://user-images.githubusercontent.com/7629661/87821425-1f956c00-c870-11ea-9871-a76f99739501.png" width="156" alt="Sponsor siddharth018 on GitHub" title="Sponsor siddharth018 on GitHub">
-  </a>
+  <a href="https://twitter.com/https://twitter.com/kumarqpradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kumarqpradeep" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pradeep-kumar-15895b122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pradeep-kumar-15895b122/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pradeepkumar8268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pradeepkumar8268/" height="30" width="40" /></a>
 </p>
 
 ### Languages, Frameworks and Tools I use and I have worked with:
