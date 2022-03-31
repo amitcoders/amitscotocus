@@ -8,8 +8,8 @@ Connect with youtube. [Youtube](#)
 
 <p>
   <a href="https://twitter.com/https://twitter.com/kumarqpradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/kumarqpradeep" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pradeep-kumar-15895b122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pradeep-kumar-15895b122/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/pradeepkumar8268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pradeepkumar8268/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amitseobokaro//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amitseobokaro//" height="30" width="40" /></a>
+<a href="https://www.facebook.com/softwareengineersdevops//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/softwareengineersdevops/" height="30" width="40" /></a>
 </p>
 
 ### Languages, Frameworks and Tools I use and I have worked with:
